@@ -3,6 +3,7 @@ Goal of repo is to explore web3 technologies like Solidity used to primarily cre
 ERC-20 is similar, in some respects, to bitcoin, Litecoin, and any other cryptocurrency; 
 ERC-20 tokens are blockchain-based assets that have value and can be sent and received. 
 The primary difference is that instead of running on their own blockchain, ERC-20 tokens are issued on the Ethereum network.
+Feel free to read more below or visit docs: https://docs.soliditylang.org/en/v0.8.13/
 
 Solidity
 ========
