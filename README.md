@@ -1,12 +1,11 @@
-Solidity
-========
 
-exploring into web3 technologies like Solidity used to primarily create smart-contracts utilizing Ethereums ERC-20 network.
+Goal of repo is to explore web3 technologies like Solidity used to primarily create smart-contracts utilizing Ethereums ERC-20 network.
 ERC-20 is similar, in some respects, to bitcoin, Litecoin, and any other cryptocurrency; 
 ERC-20 tokens are blockchain-based assets that have value and can be sent and received. 
 The primary difference is that instead of running on their own blockchain, ERC-20 tokens are issued on the Ethereum network.
 
-
+Solidity
+========
 
 Solidity is an object-oriented, high-level language for implementing smart
 contracts. Smart contracts are programs which govern the behaviour of accounts
